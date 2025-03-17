@@ -15,4 +15,7 @@ public class NhanVien {
     private String matKhau;
     private String hoTen;
     private String trangThai;
+    private String mm;
+    private String hm;
+    private String pp;
 }
